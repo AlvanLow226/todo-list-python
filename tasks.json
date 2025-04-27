@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Study python",
+        "completed": true
+    },
+    {
+        "task": "sleep later",
+        "completed": false
+    },
+    {
+        "task": "swimming",
+        "completed": false
+    }
+]

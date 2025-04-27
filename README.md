@@ -1,7 +1,8 @@
+
 # 📝 To-Do List CLI App (Python)
 
 A simple command-line To-Do List application written in Python.  
-This project helps users manage their daily tasks with basic options to add, view, complete, and remove tasks — all stored locally in a `.json` file.
+This project helps users manage their daily tasks with basic options to add, view, complete, and remove tasks (all stored locally in a `.json` file).
 
 ---
 
@@ -40,3 +41,24 @@ I learned:
 ```bash
 git clone https://github.com/AlvanLow226/todo-list-python.git
 cd todo-list-python
+```
+
+### Step 2: Install Python (if not installed)
+
+Make sure you have **Python 3.x** installed on your machine. You can download Python from [python.org](https://www.python.org/downloads/).
+
+### Step 3: Run the script
+```bash
+python todo.py
+```
+
+Follow the on-screen prompts to:
+- View tasks (`1`)
+- Add a task (`2`)
+- Mark a task as completed (`3`)
+- Delete a task (`4`)
+- Exit and save tasks (`5`)
+
+The `tasks.json` file will be created/updated in the same directory as the script.
+
+---
